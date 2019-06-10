@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\ACMEaccounting\bin\Debug\netcoreapp2.1\ACMEaccounting.deps.json
+C:\Users\ahammon3\source\repos\ACMEaccounting\bin\Debug\netcoreapp2.1\ACMEaccounting.runtimeconfig.json
+C:\Users\ahammon3\source\repos\ACMEaccounting\bin\Debug\netcoreapp2.1\ACMEaccounting.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\ACMEaccounting\bin\Debug\netcoreapp2.1\ACMEaccounting.dll
+C:\Users\ahammon3\source\repos\ACMEaccounting\bin\Debug\netcoreapp2.1\ACMEaccounting.pdb
+C:\Users\ahammon3\source\repos\ACMEaccounting\obj\Debug\netcoreapp2.1\ACMEaccounting.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\ACMEaccounting\obj\Debug\netcoreapp2.1\ACMEaccounting.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\ACMEaccounting\obj\Debug\netcoreapp2.1\ACMEaccounting.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\ACMEaccounting\obj\Debug\netcoreapp2.1\ACMEaccounting.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\ACMEaccounting\obj\Debug\netcoreapp2.1\ACMEaccounting.dll
+C:\Users\ahammon3\source\repos\ACMEaccounting\obj\Debug\netcoreapp2.1\ACMEaccounting.pdb
